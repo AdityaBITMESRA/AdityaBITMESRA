@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdityaBITMESRA
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning MERN stack and Computational Neuroscience
 - 📫 How to reach me Email:- adityapand3y666@gmail.com
 
 <!---
