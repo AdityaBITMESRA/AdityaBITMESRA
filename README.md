@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdityaBITMESRA
+- 👋 Hi, I’m Aditya Pandey
 - 👀 I’m interested in Web development and Machine Learning 
 - 🌱 I’m currently learning Computational Neuroscience
 - 📫 How to reach me Email:- adityapand3y666@gmail.com
